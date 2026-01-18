@@ -1,10 +1,13 @@
 <script setup lang="ts">
 
+import Backlog from './components/Backlog.vue';
+
+
 </script>
 
 <template>
   <div class="flex h-screen items-start bg-gray-900">
-    <h2>Test Please?</h2>
+    <Backlog />
   </div>
 </template>
 
